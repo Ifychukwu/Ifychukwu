@@ -18,7 +18,7 @@ a published dashboard and an interactive app.
 - **[Dashboard](https://ifychukwu.github.io/nhs-ae-analytics/)**: attendances, 4 and 12 hour waits,
   deprivation and trust performance, 2020 to 2026.
 - **[Live app](https://nhs-ae-analytics-l7ywhuw5jw7wppnatnnuic.streamlit.app/)**: explore 26 million attendances a year by complaint, age, deprivation and
-  trust, or ask a question in plain English (Claude writes and runs read-only SQL; every query is shown).
+  trust, or ask a question in plain English.
 - **[Code](https://github.com/Ifychukwu/nhs-ae-analytics)**: Python, SQL (SQLite), pandas,
   scikit-learn, Streamlit, Plotly.
 
